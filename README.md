@@ -8,5 +8,6 @@ mkdir build
 cd build
 cmake ../
 make
+# Then, find the exacutable into the <crc32-repo-path>/bin
+cd ../bin
 ```
-Find the exacutable into the <crc32-repo-path>/bin
